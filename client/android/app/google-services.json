@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "126849094637",
+    "firebase_url": "https://fcm-tutorial-8e624.firebaseio.com",
+    "project_id": "fcm-tutorial-8e624",
+    "storage_bucket": "fcm-tutorial-8e624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126849094637:android:ecd33fac73976e4f478de4",
+        "android_client_info": {
+          "package_name": "com.abubusoft.tutorials.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126849094637-sa3se05anbm2e7bfhsui2ag81ib6ddb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq_5ZpA30cIzDf6v-ftm50CfUr3zqiQ1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126849094637-sa3se05anbm2e7bfhsui2ag81ib6ddb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
